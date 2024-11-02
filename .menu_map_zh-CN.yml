@@ -1,6 +1,7 @@
 50.deploy=安装部署
 100.configuration=配置
 300.migrations=数据迁移和导入
+500.route=路由
 600.develop=开发
 700.management=运维管理
 800.diagnostic=诊断
