@@ -1,5 +1,6 @@
 50.deploy=安装部署
 100.configuration=配置
+200.high-availability=高可用
 300.migrations=数据迁移和导入
 500.route=路由
 550.database-design=数据表设计
